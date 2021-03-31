@@ -88,3 +88,4 @@ class Peli():
                 self.potti -= self.panos * 2
             text += f'\npotti on {self.potti}'
         return text
+

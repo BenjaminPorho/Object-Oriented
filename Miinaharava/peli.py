@@ -20,3 +20,4 @@ class IPelit(ABC):
     @abstractmethod
     def uusiPeli(self):
         pass
+

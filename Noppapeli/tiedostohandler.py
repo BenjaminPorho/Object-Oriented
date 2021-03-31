@@ -27,3 +27,4 @@ class TiedostoHandler:
             if f != None :
                 f.close()  
         return content
+

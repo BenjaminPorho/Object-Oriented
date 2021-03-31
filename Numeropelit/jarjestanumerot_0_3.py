@@ -37,3 +37,4 @@ while tuple(numbers) != compare:
     except ValueError:
         print("Anna kokonaisluku väliltä 1-8: ")
         continue
+

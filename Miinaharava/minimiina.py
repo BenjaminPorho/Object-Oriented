@@ -1,7 +1,7 @@
 '''
 @author: Benjamin Pörhö, Oskari Toivanen, Joona Pääkkönen, Jesperi Vainio
 minimiina.py
-Miinaharavan gui.
+Miinaharavan gui
 '''
 
 import tkinter as tk

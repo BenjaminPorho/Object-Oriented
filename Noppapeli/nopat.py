@@ -7,7 +7,7 @@ nopat.py
 """
 Tupla-tai-kuitti-noppapeli
 
-Käyttäjä asettaa panoksen, joka on välillä 1 - potti. Potti on alussa 100 (peli pääsymaksu).
+Käyttäjä asettaa panoksen, joka on välillä 1 - potti. Potti on alussa 100.
 Ohjelma heittää nopar, tarkistaa tuloksen, laskee voiton/tappion, 
 päivittää potin ja näyttää sen käyttäjälle.
 Jos potti on suurempi kuin 0 peli jatkuu seuraavalle kierrokselle. 
